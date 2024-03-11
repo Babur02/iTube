@@ -6,7 +6,7 @@ i-Tube is a React application that allows users to watch YouTube videos and enga
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Babur02/i-Tube.git 
+   git clone https://github.com/Babur02/i-Tube.git](https://github.com/Babur02/iTube/tree/main/i-Tube
 2. Install dependencies:
    ```bash
    npm install
